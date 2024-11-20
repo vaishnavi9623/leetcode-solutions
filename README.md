@@ -16,6 +16,15 @@ This repository contains my solutions to LeetCode problems using PHP. Each solut
 - **Solution**: [remove_element_from_array.php](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
+
+## Problem 3: Remove Duplicate Element from Array
+- **LeetCode Problem URL**: [Remove Duplicate Element](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150)
+- **Description**: Given a sorted array, remove the duplicates in-place such that each element appears only once. The function should return the new length of the array after removing the duplicates. Do not use any extra space for another array. You must modify the given array in place and return the new length
+- **Approach**: removes duplicates from a sorted array in place with optimal time and space complexity. The key idea is to use two pointers: one to iterate through the array and the other to track the position of unique elements.
+- **Solution**: [remove_duplicate_element_from_array.php](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150)
+
+
+<!-- -------------------------------------------------------------------------------------------------------------- -->
 ## How to Run:
 1. Clone this repository: `git clone https://github.com/vaishnavi9623/leetcode-solutions.git`
 2. Navigate to the problem folder (e.g., `arrays`).
